@@ -1,0 +1,1 @@
+Quick analysis in R on Parkrun data, used for blog post (https://davidabelman.wordpress.com/2015/01/13/analysing-parkrun-data-using-r/). Filled with dubious assumptions!
